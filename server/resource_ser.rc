@@ -1,0 +1,8 @@
+WIN_MENU MENU{
+	POPUP "ファイル"{
+		MENUITEM "終了", 40003
+	}
+	POPUP "ヘルプ"{
+		MENUITEM "バージョン情報", 40013
+	}
+}
